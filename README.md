@@ -155,7 +155,34 @@ Hi, I'm Giovani. I'm a fourth-year Psychology student at the University of Denve
 ![BIOPAC](https://img.shields.io/badge/BIOPAC-0f766e?style=flat-square)
 
 </div>
+<a name="Work Samples"></a>
+ 
+A selection of scripts and spreadsheets from past coursework and research. Click a file name to open it.
 
+*Due to IRB Protocol and Ethical Considerations, code from lab and professonal settings can not be included
+ 
+<details open>
+<summary><b>📈 R</b></summary>
+<br/>
+| Project | What it does | Files |
+
+ 
+</details>
+<details open>
+<summary><b>🐍 Python</b></summary>
+<br/>
+| Project | What it does | Files |
+ 
+</details>
+<details open>
+<summary><b>📊 Excel</b></summary>
+<br/>
+| Project | What it does | Files |
+ 
+</details>
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
+---
 ### Certifications & Qualifications
 
 <div align="center">
