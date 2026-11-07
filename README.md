@@ -159,31 +159,38 @@ Hi, I'm Giovani. I'm a fourth-year Psychology student at the University of Denve
  
 A selection of scripts and spreadsheets from past coursework and research. Click a file name to open it.
 
-*Due to IRB Protocol and Ethical Considerations, code from lab and professonal settings can not be included
+*Due to IRB Protocol and Ethical Considerations, code from lab and professional settings can not be included
  
 <details open>
 <summary><b>📈 R</b></summary>
 <br/>
-| Project | What it does | Files |
-
+<a href="https://github.com/giovanivalladares/giovanivalladares/tree/e3313997d7d65754d3e09020ecfe6ad97a5df765/R%20Mini%20Tasks"><img src="https://img.shields.io/badge/R%20Mini%20Tasks-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Mini Tasks"/></a>
  
+These are small practice tasks that I've used in my class in Research Design and Inference. I am currently working on a larger project that will be uploaded once completed. These tasks range from hypothesis testing, factorial ANOVAs, and plot building. 
+
 </details>
 <details open>
 <summary><b>🐍 Python</b></summary>
-<br/>
-| Project | What it does | Files |
+<a href="https://github.com/giovanivalladares/giovanivalladares/tree/e3313997d7d65754d3e09020ecfe6ad97a5df765/Final%20project%20%28INFO%203100%29"><img src="https://img.shields.io/badge/Database%20Project-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Database Project"/></a>
+
+This is a final project from my Database class, where I used Python to run statistical analyses and draw inferences through ANOVAs on data about student performance and free lunch status/demographics. 
+
  
 </details>
 <details open>
 <summary><b>📊 Excel</b></summary>
 <br/>
-| Project | What it does | Files |
- 
+<a href="https://github.com/giovanivalladares/giovanivalladares/tree/e3313997d7d65754d3e09020ecfe6ad97a5df765/Project%201%20%28INFO%202030%29"><img src="https://img.shields.io/badge/Project%201%3A%20Multiple%20Regression%20Model%20Building-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Project 1: Multiple Regression Model Building"/></a> <a href="https://github.com/giovanivalladares/giovanivalladares/tree/e3313997d7d65754d3e09020ecfe6ad97a5df765/Project%202%20%28INFO%202030%29"><img src="https://img.shields.io/badge/Project%202%3A%20Time%20Series%20Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Project 2: Time Series Data Modeling"/></a> <a href="https://github.com/giovanivalladares/giovanivalladares/tree/e3313997d7d65754d3e09020ecfe6ad97a5df765/Project%203%20%28INFO%202030%29"><img src="https://img.shields.io/badge/Project%203%3A%20Simulation%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Project 3: Simulation Modeling"/></a>
+
+These are my three modeling projects from my Analytics III course, where each one focuses on a type of modeling stated in its title. Each comes with an executive report in which the context of the data is given, along with a summary of the analysis and future steps for each situation. 
+
 </details>
 
 <div align="right"><a href="#top">⬆ back to top</a></div>
 ---
-### Certifications & Qualifications
+
+
+Certifications & Qualifications
 
 <div align="center">
 
