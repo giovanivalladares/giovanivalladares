@@ -20,7 +20,7 @@
 
 ## Welcome
 
-Hi, I'm Giovani. I'm a fourth-year Psychology student at the University of Denver with a minor in Statistics, pursuing a dual B.A./M.A. This page is a little about me and a sampling of my work. I've worked heavily in two psychology labs, where I run studies, collect and code data, and analyze it in **R** and **Python**. I also love working with young people, and a lot of my work outside of research has been in education and mentoring.
+Hi, I'm Giovani. I'm a fourth-year Psychology student at the University of Denver with a minor in Statistics, pursuing a dual B.A./M.A. This page is a little about me and a sampling of my work. I've worked heavily in two psychology labs, where I run studies, collect and code data, and analyze it in **R** and **Python**. My work currently revolves around the clinical and psychedelic spaces. I also love working with young people, and a lot of my work outside of research has been in education and mentoring.
 
 <div align="right"><a href="#top">⬆ back to top</a></div>
 
@@ -172,7 +172,7 @@ Hi, I'm Giovani. I'm a fourth-year Psychology student at the University of Denve
 
 <div align="center">
 
-🧑‍🏫 Teaching &nbsp;·&nbsp; 🗣 Facilitating &nbsp;·&nbsp; 🧑‍🤝‍🧑 Mentoring &nbsp;·&nbsp; 🎤 Research Presentations &nbsp;·&nbsp; 🇯🇵 Japanese (minor)
+🧑‍🏫 Teaching &nbsp;·&nbsp; 🗣 Facilitating &nbsp;·&nbsp; 🧑‍🤝‍🧑 Mentoring &nbsp;·&nbsp; 🎤 Research Presentations &nbsp;·&nbsp; 🇯🇵 Japanese (minor) &nbsp;·&nbsp; 🇪🇸Spanish (Native Speaker)
 
 </div>
 
