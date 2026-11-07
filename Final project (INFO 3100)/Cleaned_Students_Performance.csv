@@ -1,0 +1,1001 @@
+Student Num,gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,total_score,average_score
+1,0,group B,bachelor's degree,1,0,72,72,74,218,72.67
+2,0,group C,some college,1,1,69,90,88,247,82.33
+3,0,group B,master's degree,1,0,90,95,93,278,92.67
+4,1,group A,associate's degree,0,0,47,57,44,148,49.33
+5,1,group C,some college,1,0,76,78,75,229,76.33
+6,0,group B,associate's degree,1,0,71,83,78,232,77.33
+7,0,group B,some college,1,1,88,95,92,275,91.67
+8,1,group B,some college,0,0,40,43,39,122,40.67
+9,1,group D,high school,0,1,64,64,67,195,65.00
+10,0,group B,high school,0,0,38,60,50,148,49.33
+11,1,group C,associate's degree,1,0,58,54,52,164,54.67
+12,1,group D,associate's degree,1,0,40,52,43,135,45.00
+13,0,group B,high school,1,0,65,81,73,219,73.00
+14,1,group A,some college,1,1,78,72,70,220,73.33
+15,0,group A,master's degree,1,0,50,53,58,161,53.67
+16,0,group C,some high school,1,0,69,75,78,222,74.00
+17,1,group C,high school,1,0,88,89,86,263,87.67
+18,0,group B,some high school,0,0,18,32,28,78,26.00
+19,1,group C,master's degree,0,1,46,42,46,134,44.67
+20,0,group C,associate's degree,0,0,54,58,61,173,57.67
+21,1,group D,high school,1,0,66,69,63,198,66.00
+22,0,group B,some college,0,1,65,75,70,210,70.00
+23,1,group D,some college,1,0,44,54,53,151,50.33
+24,0,group C,some high school,1,0,69,73,73,215,71.67
+25,1,group D,bachelor's degree,0,1,74,71,80,225,75.00
+26,1,group A,master's degree,0,0,73,74,72,219,73.00
+27,1,group B,some college,1,0,69,54,55,178,59.33
+28,0,group C,bachelor's degree,1,0,67,69,75,211,70.33
+29,1,group C,high school,1,0,70,70,65,205,68.33
+30,0,group D,master's degree,1,0,62,70,75,207,69.00
+31,0,group D,some college,1,0,69,74,74,217,72.33
+32,0,group B,some college,1,0,63,65,61,189,63.00
+33,0,group E,master's degree,0,0,56,72,65,193,64.33
+34,1,group D,some college,1,0,40,42,38,120,40.00
+35,1,group E,some college,1,0,97,87,82,266,88.67
+36,1,group E,associate's degree,1,1,81,81,79,241,80.33
+37,0,group D,associate's degree,1,0,74,81,83,238,79.33
+38,0,group D,some high school,0,0,50,64,59,173,57.67
+39,0,group D,associate's degree,0,1,75,90,88,253,84.33
+40,1,group B,associate's degree,0,0,57,56,57,170,56.67
+41,1,group C,associate's degree,0,0,55,61,54,170,56.67
+42,0,group C,associate's degree,1,0,58,73,68,199,66.33
+43,0,group B,associate's degree,1,0,53,58,65,176,58.67
+44,1,group B,some college,0,1,59,65,66,190,63.33
+45,0,group E,associate's degree,0,0,50,56,54,160,53.33
+46,1,group B,associate's degree,1,0,65,54,57,176,58.67
+47,0,group A,associate's degree,1,1,55,65,62,182,60.67
+48,0,group C,high school,1,0,66,71,76,213,71.00
+49,0,group D,associate's degree,0,1,57,74,76,207,69.00
+50,1,group C,high school,1,1,82,84,82,248,82.67
+51,1,group E,some college,1,0,53,55,48,156,52.00
+52,1,group E,associate's degree,0,1,77,69,68,214,71.33
+53,1,group C,some college,1,0,53,44,42,139,46.33
+54,1,group D,high school,1,0,88,78,75,241,80.33
+55,0,group C,some high school,0,1,71,84,87,242,80.67
+56,0,group C,high school,0,0,33,41,43,117,39.00
+57,0,group E,associate's degree,1,1,82,85,86,253,84.33
+58,1,group D,associate's degree,1,0,52,55,49,156,52.00
+59,1,group D,some college,1,1,58,59,58,175,58.33
+60,0,group C,some high school,0,0,0,17,10,27,9.00
+61,1,group E,bachelor's degree,0,1,79,74,72,225,75.00
+62,1,group A,some high school,0,0,39,39,34,112,37.33
+63,1,group A,associate's degree,0,0,62,61,55,178,59.33
+64,0,group C,associate's degree,1,0,69,80,71,220,73.33
+65,0,group D,some high school,1,0,59,58,59,176,58.67
+66,1,group B,some high school,1,0,67,64,61,192,64.00
+67,1,group D,some high school,0,0,45,37,37,119,39.67
+68,0,group C,some college,1,0,60,72,74,206,68.67
+69,1,group B,associate's degree,0,0,61,58,56,175,58.33
+70,0,group C,associate's degree,1,0,39,64,57,160,53.33
+71,0,group D,some college,0,1,58,63,73,194,64.67
+72,1,group D,some college,1,1,63,55,63,181,60.33
+73,0,group A,associate's degree,0,0,41,51,48,140,46.67
+74,1,group C,some high school,0,0,61,57,56,174,58.00
+75,1,group C,some high school,1,0,49,49,41,139,46.33
+76,1,group B,associate's degree,0,0,44,41,38,123,41.00
+77,1,group E,some high school,1,0,30,26,22,78,26.00
+78,1,group A,bachelor's degree,1,1,80,78,81,239,79.67
+79,0,group D,some high school,1,1,61,74,72,207,69.00
+80,0,group E,master's degree,1,0,62,68,68,198,66.00
+81,0,group B,associate's degree,1,0,47,49,50,146,48.67
+82,1,group B,high school,0,0,49,45,45,139,46.33
+83,1,group A,some college,0,1,50,47,54,151,50.33
+84,1,group E,associate's degree,1,0,72,64,63,199,66.33
+85,1,group D,high school,0,0,42,39,34,115,38.33
+86,0,group C,some college,1,0,73,80,82,235,78.33
+87,0,group C,some college,0,0,76,83,88,247,82.33
+88,0,group D,associate's degree,1,0,71,71,74,216,72.00
+89,0,group A,some college,1,0,58,70,67,195,65.00
+90,0,group D,some high school,1,0,73,86,82,241,80.33
+91,0,group C,bachelor's degree,1,0,65,72,74,211,70.33
+92,1,group C,high school,0,0,27,34,36,97,32.33
+93,1,group C,high school,1,0,71,79,71,221,73.67
+94,1,group C,associate's degree,0,1,43,45,50,138,46.00
+95,0,group B,some college,1,0,79,86,92,257,85.67
+96,1,group C,associate's degree,0,1,78,81,82,241,80.33
+97,1,group B,some high school,1,1,65,66,62,193,64.33
+98,0,group E,some college,1,1,63,72,70,205,68.33
+99,0,group D,some college,0,0,58,67,62,187,62.33
+100,0,group D,bachelor's degree,1,0,65,67,62,194,64.67
+101,1,group B,some college,1,0,79,67,67,213,71.00
+102,1,group D,bachelor's degree,1,1,68,74,74,216,72.00
+103,0,group D,associate's degree,1,0,85,91,89,265,88.33
+104,1,group B,high school,1,1,60,44,47,151,50.33
+105,1,group C,some college,1,1,98,86,90,274,91.33
+106,0,group C,some college,1,0,58,67,72,197,65.67
+107,0,group D,master's degree,1,0,87,100,100,287,95.67
+108,1,group E,associate's degree,1,1,66,63,64,193,64.33
+109,0,group B,associate's degree,0,0,52,76,70,198,66.00
+110,0,group B,some high school,1,0,70,64,72,206,68.67
+111,0,group D,associate's degree,0,1,77,89,98,264,88.00
+112,1,group C,high school,1,0,62,55,49,166,55.33
+113,1,group A,associate's degree,1,0,54,53,47,154,51.33
+114,0,group D,some college,1,0,51,58,54,163,54.33
+115,0,group E,bachelor's degree,1,1,99,100,100,299,99.67
+116,1,group C,high school,1,0,84,77,74,235,78.33
+117,0,group B,bachelor's degree,0,0,75,85,82,242,80.67
+118,0,group D,bachelor's degree,1,0,78,82,79,239,79.67
+119,0,group D,some high school,1,0,51,63,61,175,58.33
+120,0,group C,some college,1,0,55,69,65,189,63.00
+121,0,group C,bachelor's degree,1,1,79,92,89,260,86.67
+122,1,group B,associate's degree,1,1,91,89,92,272,90.67
+123,0,group C,some college,1,1,88,93,93,274,91.33
+124,1,group D,high school,0,0,63,57,56,176,58.67
+125,1,group E,some college,1,0,83,80,73,236,78.67
+126,0,group B,high school,1,0,87,95,86,268,89.33
+127,1,group B,some high school,1,0,72,68,67,207,69.00
+128,1,group D,some college,1,1,65,77,74,216,72.00
+129,1,group D,master's degree,1,0,82,82,74,238,79.33
+130,0,group A,bachelor's degree,1,0,51,49,51,151,50.33
+131,1,group D,master's degree,1,0,89,84,82,255,85.00
+132,1,group C,some high school,0,1,53,37,40,130,43.33
+133,1,group E,some college,0,1,87,74,70,231,77.00
+134,0,group C,some college,1,1,75,81,84,240,80.00
+135,1,group D,bachelor's degree,0,1,74,79,75,228,76.00
+136,1,group C,bachelor's degree,1,0,58,55,48,161,53.67
+137,1,group B,some high school,1,1,51,54,41,146,48.67
+138,1,group E,high school,1,0,70,55,56,181,60.33
+139,0,group C,associate's degree,1,0,59,66,67,192,64.00
+140,1,group D,some college,1,1,71,61,69,201,67.00
+141,0,group D,some high school,1,0,76,72,71,219,73.00
+142,0,group C,some college,0,0,59,62,64,185,61.67
+143,0,group E,some college,0,1,42,55,54,151,50.33
+144,1,group A,high school,1,0,57,43,47,147,49.00
+145,1,group D,some college,1,0,88,73,78,239,79.67
+146,0,group C,some college,0,0,22,39,33,94,31.33
+147,1,group B,some high school,1,0,88,84,75,247,82.33
+148,1,group C,associate's degree,0,0,73,68,66,207,69.00
+149,0,group D,bachelor's degree,1,1,68,75,81,224,74.67
+150,1,group E,associate's degree,0,1,100,100,93,293,97.67
+151,1,group A,some high school,1,1,62,67,69,198,66.00
+152,1,group A,bachelor's degree,1,0,77,67,68,212,70.67
+153,0,group B,associate's degree,1,1,59,70,66,195,65.00
+154,1,group D,bachelor's degree,1,0,54,49,47,150,50.00
+155,1,group D,some high school,1,0,62,67,61,190,63.33
+156,0,group C,some college,1,1,70,89,88,247,82.33
+157,0,group E,high school,0,1,66,74,78,218,72.67
+158,1,group B,some college,0,0,60,60,60,180,60.00
+159,0,group B,associate's degree,1,1,61,86,87,234,78.00
+160,1,group D,associate's degree,0,0,66,62,64,192,64.00
+161,1,group B,associate's degree,0,1,82,78,74,234,78.00
+162,0,group E,some college,0,1,75,88,85,248,82.67
+163,1,group B,master's degree,0,0,49,53,52,154,51.33
+164,1,group C,high school,1,0,52,53,49,154,51.33
+165,0,group E,master's degree,1,0,81,92,91,264,88.00
+166,0,group C,bachelor's degree,1,1,96,100,100,296,98.67
+167,1,group C,high school,0,1,53,51,51,155,51.67
+168,0,group B,master's degree,0,1,58,76,78,212,70.67
+169,0,group B,high school,1,1,68,83,78,229,76.33
+170,0,group C,some college,0,1,67,75,70,212,70.67
+171,1,group A,high school,1,1,72,73,74,219,73.00
+172,1,group E,some high school,1,0,94,88,78,260,86.67
+173,0,group D,some college,1,0,79,86,81,246,82.00
+174,0,group C,associate's degree,1,0,63,67,70,200,66.67
+175,0,group C,bachelor's degree,0,1,43,51,54,148,49.33
+176,0,group C,master's degree,1,1,81,91,87,259,86.33
+177,0,group B,high school,0,1,46,54,58,158,52.67
+178,0,group C,associate's degree,1,1,71,77,77,225,75.00
+179,0,group B,master's degree,0,1,52,70,62,184,61.33
+180,0,group D,some high school,1,1,97,100,100,297,99.00
+181,1,group C,master's degree,0,1,62,68,75,205,68.33
+182,0,group C,some college,0,0,46,64,66,176,58.67
+183,0,group E,high school,1,0,50,50,47,147,49.00
+184,0,group D,associate's degree,1,0,65,69,70,204,68.00
+185,1,group C,some high school,0,1,45,52,49,146,48.67
+186,1,group C,associate's degree,0,1,65,67,65,197,65.67
+187,1,group E,high school,1,0,80,76,65,221,73.67
+188,1,group D,some high school,1,1,62,66,68,196,65.33
+189,1,group B,some high school,0,0,48,52,45,145,48.33
+190,0,group C,bachelor's degree,1,0,77,88,87,252,84.00
+191,0,group E,associate's degree,1,0,66,65,69,200,66.67
+192,1,group D,some college,1,1,76,83,79,238,79.33
+193,0,group B,some high school,1,0,62,64,66,192,64.00
+194,1,group D,some college,1,1,77,62,62,201,67.00
+195,0,group C,master's degree,1,1,69,84,85,238,79.33
+196,1,group D,associate's degree,1,0,61,55,52,168,56.00
+197,1,group C,some high school,0,1,59,69,65,193,64.33
+198,1,group E,high school,0,0,55,56,51,162,54.00
+199,0,group B,some college,0,0,45,53,55,153,51.00
+200,0,group B,bachelor's degree,0,0,78,79,76,233,77.67
+201,0,group C,associate's degree,1,1,67,84,86,237,79.00
+202,0,group D,some college,0,0,65,81,77,223,74.33
+203,1,group C,associate's degree,1,0,69,77,69,215,71.67
+204,0,group B,associate's degree,1,0,57,69,68,194,64.67
+205,1,group C,some college,1,0,59,41,42,142,47.33
+206,1,group D,some high school,1,1,74,71,78,223,74.33
+207,1,group E,bachelor's degree,1,0,82,62,62,206,68.67
+208,1,group E,high school,1,1,81,80,76,237,79.00
+209,0,group B,some college,0,0,74,81,76,231,77.00
+210,0,group B,some college,0,0,58,61,66,185,61.67
+211,1,group D,some high school,0,1,80,79,79,238,79.33
+212,1,group C,some college,0,0,35,28,27,90,30.00
+213,0,group C,high school,0,0,42,62,60,164,54.67
+214,1,group C,associate's degree,0,1,60,51,56,167,55.67
+215,1,group E,high school,1,1,87,91,81,259,86.33
+216,1,group B,some high school,1,1,84,83,75,242,80.67
+217,0,group E,associate's degree,0,1,83,86,88,257,85.67
+218,0,group C,high school,0,0,34,42,39,115,38.33
+219,1,group B,high school,0,0,66,77,70,213,71.00
+220,1,group B,some high school,1,1,61,56,56,173,57.67
+221,0,group D,high school,1,1,56,68,74,198,66.00
+222,1,group B,associate's degree,1,0,87,85,73,245,81.67
+223,0,group C,some high school,0,0,55,65,62,182,60.67
+224,1,group D,some high school,1,0,86,80,75,241,80.33
+225,0,group B,associate's degree,1,1,52,66,73,191,63.67
+226,0,group E,master's degree,0,0,45,56,54,155,51.67
+227,0,group C,some college,1,0,72,72,71,215,71.67
+228,1,group D,high school,1,0,57,50,54,161,53.67
+229,1,group A,some high school,0,0,68,72,64,204,68.00
+230,0,group C,some college,1,1,88,95,94,277,92.33
+231,1,group D,some college,1,0,76,64,66,206,68.67
+232,1,group C,associate's degree,1,0,46,43,42,131,43.67
+233,0,group B,bachelor's degree,1,0,67,86,83,236,78.67
+234,1,group E,some high school,1,0,92,87,78,257,85.67
+235,1,group C,bachelor's degree,1,1,83,82,84,249,83.00
+236,1,group D,associate's degree,1,0,80,75,77,232,77.33
+237,1,group D,bachelor's degree,0,0,63,66,67,196,65.33
+238,0,group D,some high school,1,1,64,60,74,198,66.00
+239,1,group B,some college,1,0,54,52,51,157,52.33
+240,1,group C,associate's degree,1,0,84,80,80,244,81.33
+241,1,group D,high school,0,1,73,68,66,207,69.00
+242,0,group E,bachelor's degree,1,0,80,83,83,246,82.00
+243,0,group D,high school,1,0,56,52,55,163,54.33
+244,1,group E,some college,1,0,59,51,43,153,51.00
+245,1,group D,some high school,1,0,75,74,69,218,72.67
+246,1,group C,associate's degree,1,0,85,76,71,232,77.33
+247,1,group E,associate's degree,1,0,89,76,74,239,79.67
+248,0,group B,high school,1,1,58,70,68,196,65.33
+249,0,group B,high school,1,0,65,64,62,191,63.67
+250,1,group C,high school,1,0,68,60,53,181,60.33
+251,1,group A,some high school,1,1,47,49,49,145,48.33
+252,0,group D,some college,0,0,71,83,83,237,79.00
+253,0,group B,some high school,1,1,60,70,70,200,66.67
+254,1,group D,master's degree,1,0,80,80,72,232,77.33
+255,1,group D,high school,1,0,54,52,52,158,52.67
+256,0,group E,some college,1,0,62,73,70,205,68.33
+257,0,group C,associate's degree,0,0,64,73,68,205,68.33
+258,1,group C,associate's degree,1,1,78,77,77,232,77.33
+259,0,group B,some college,1,0,70,75,78,223,74.33
+260,0,group C,master's degree,0,1,65,81,81,227,75.67
+261,0,group C,some high school,0,1,64,79,77,220,73.33
+262,1,group C,some college,1,1,79,79,78,236,78.67
+263,0,group C,some high school,0,0,44,50,51,145,48.33
+264,0,group E,high school,1,0,99,93,90,282,94.00
+265,1,group D,high school,1,0,76,73,68,217,72.33
+266,1,group D,some high school,0,0,59,42,41,142,47.33
+267,0,group C,bachelor's degree,1,0,63,75,81,219,73.00
+268,0,group D,high school,1,0,69,72,77,218,72.67
+269,0,group D,associate's degree,1,1,88,92,95,275,91.67
+270,0,group E,some college,0,0,71,76,70,217,72.33
+271,1,group C,bachelor's degree,1,0,69,63,61,193,64.33
+272,1,group C,some college,1,0,58,49,42,149,49.67
+273,0,group D,associate's degree,0,0,47,53,58,158,52.67
+274,0,group D,some college,1,0,65,70,71,206,68.67
+275,1,group B,some college,1,1,88,85,76,249,83.00
+276,1,group C,bachelor's degree,1,0,83,78,73,234,78.00
+277,0,group C,some high school,1,1,85,92,93,270,90.00
+278,0,group E,high school,1,1,59,63,75,197,65.67
+279,0,group C,some high school,0,0,65,86,80,231,77.00
+280,1,group B,bachelor's degree,0,0,73,56,57,186,62.00
+281,1,group D,high school,1,0,53,52,42,147,49.00
+282,1,group D,high school,1,0,45,48,46,139,46.33
+283,0,group D,bachelor's degree,0,0,73,79,84,236,78.67
+284,0,group D,some college,0,1,70,78,78,226,75.33
+285,0,group B,some high school,1,0,37,46,46,129,43.00
+286,1,group B,associate's degree,1,1,81,82,82,245,81.67
+287,1,group E,associate's degree,1,1,97,82,88,267,89.00
+288,0,group B,some high school,1,0,67,89,82,238,79.33
+289,1,group B,bachelor's degree,0,0,88,75,76,239,79.67
+290,1,group E,some high school,1,1,77,76,77,230,76.67
+291,1,group C,associate's degree,1,0,76,70,68,214,71.33
+292,1,group D,some high school,1,0,86,73,70,229,76.33
+293,1,group C,some high school,1,1,63,60,57,180,60.00
+294,0,group E,bachelor's degree,1,0,65,73,75,213,71.00
+295,1,group D,high school,0,1,78,77,80,235,78.33
+296,1,group B,associate's degree,0,0,67,62,60,189,63.00
+297,1,group A,some high school,1,1,46,41,43,130,43.33
+298,1,group E,associate's degree,1,1,71,74,68,213,71.00
+299,1,group C,high school,0,1,40,46,50,136,45.33
+300,1,group D,associate's degree,0,0,90,87,75,252,84.00
+301,1,group A,some college,0,1,81,78,81,240,80.00
+302,1,group D,some high school,0,0,56,54,52,162,54.00
+303,0,group C,associate's degree,1,1,67,84,81,232,77.33
+304,1,group B,associate's degree,1,0,80,76,64,220,73.33
+305,0,group C,associate's degree,1,1,74,75,83,232,77.33
+306,1,group A,some college,1,0,69,67,69,205,68.33
+307,1,group E,some college,1,1,99,87,81,267,89.00
+308,1,group C,some high school,1,0,51,52,44,147,49.00
+309,0,group B,associate's degree,0,0,53,71,67,191,63.67
+310,0,group D,high school,0,0,49,57,52,158,52.67
+311,0,group B,associate's degree,1,0,73,76,80,229,76.33
+312,1,group B,bachelor's degree,1,0,66,60,57,183,61.00
+313,1,group D,bachelor's degree,1,1,67,61,68,196,65.33
+314,0,group C,associate's degree,0,1,68,67,69,204,68.00
+315,0,group C,bachelor's degree,1,1,59,64,75,198,66.00
+316,1,group C,high school,1,0,71,66,65,202,67.33
+317,0,group D,master's degree,1,1,77,82,91,250,83.33
+318,1,group C,associate's degree,1,0,83,72,78,233,77.67
+319,1,group B,bachelor's degree,1,0,63,71,69,203,67.67
+320,0,group D,associate's degree,0,0,56,65,63,184,61.33
+321,0,group C,high school,0,1,67,79,84,230,76.67
+322,0,group E,high school,1,0,75,86,79,240,80.00
+323,0,group C,some college,1,0,71,81,80,232,77.33
+324,0,group C,some high school,0,0,43,53,53,149,49.67
+325,0,group C,high school,0,0,41,46,43,130,43.33
+326,0,group C,some college,1,0,82,90,94,266,88.67
+327,1,group C,some college,1,0,61,61,62,184,61.33
+328,1,group A,some college,0,0,28,23,19,70,23.33
+329,1,group C,associate's degree,1,1,82,75,77,234,78.00
+330,0,group B,some high school,1,0,41,55,51,147,49.00
+331,1,group C,high school,1,0,71,60,61,192,64.00
+332,1,group C,associate's degree,1,0,47,37,35,119,39.67
+333,1,group E,associate's degree,1,1,62,56,53,171,57.00
+334,1,group B,associate's degree,1,0,90,78,81,249,83.00
+335,0,group C,bachelor's degree,1,0,83,93,95,271,90.33
+336,0,group B,some college,0,0,61,68,66,195,65.00
+337,1,group D,some high school,1,1,76,70,69,215,71.67
+338,1,group C,associate's degree,1,0,49,51,43,143,47.67
+339,0,group B,some high school,0,0,24,38,27,89,29.67
+340,0,group D,some high school,0,1,35,55,60,150,50.00
+341,1,group C,high school,0,0,58,61,52,171,57.00
+342,0,group C,high school,1,0,61,73,63,197,65.67
+343,0,group B,high school,1,1,69,76,74,219,73.00
+344,1,group D,associate's degree,1,1,67,72,67,206,68.67
+345,1,group D,some college,1,0,79,73,67,219,73.00
+346,0,group C,high school,1,0,72,80,75,227,75.67
+347,1,group B,some college,1,0,62,61,57,180,60.00
+348,0,group C,bachelor's degree,1,1,77,94,95,266,88.67
+349,1,group D,high school,0,0,75,74,66,215,71.67
+350,1,group E,associate's degree,1,0,87,74,76,237,79.00
+351,0,group B,bachelor's degree,1,0,52,65,69,186,62.00
+352,1,group E,some college,1,0,66,57,52,175,58.33
+353,0,group C,some college,1,1,63,78,80,221,73.67
+354,0,group C,associate's degree,1,0,46,58,57,161,53.67
+355,0,group C,some college,1,0,59,71,70,200,66.67
+356,0,group B,bachelor's degree,1,0,61,72,70,203,67.67
+357,1,group A,associate's degree,1,0,63,61,61,185,61.67
+358,0,group C,some college,0,1,42,66,69,177,59.00
+359,1,group D,some college,0,0,59,62,61,182,60.67
+360,0,group D,some college,1,0,80,90,89,259,86.33
+361,0,group B,high school,1,0,58,62,59,179,59.67
+362,1,group B,some high school,1,1,85,84,78,247,82.33
+363,0,group C,some college,1,0,52,58,58,168,56.00
+364,0,group D,some high school,0,0,27,34,32,93,31.00
+365,1,group C,some college,1,0,59,60,58,177,59.00
+366,1,group A,bachelor's degree,0,1,49,58,60,167,55.67
+367,1,group C,high school,1,1,69,58,53,180,60.00
+368,1,group C,bachelor's degree,0,0,61,66,61,188,62.67
+369,0,group A,some high school,0,0,44,64,58,166,55.33
+370,0,group D,some high school,1,0,73,84,85,242,80.67
+371,1,group E,some college,1,0,84,77,71,232,77.33
+372,0,group C,some college,0,1,45,73,70,188,62.67
+373,1,group D,some high school,1,0,74,74,72,220,73.33
+374,0,group D,some college,1,1,82,97,96,275,91.67
+375,0,group D,bachelor's degree,1,0,59,70,73,202,67.33
+376,1,group E,associate's degree,0,0,46,43,41,130,43.33
+377,0,group D,some high school,1,0,80,90,82,252,84.00
+378,0,group D,master's degree,0,1,85,95,100,280,93.33
+379,0,group A,some high school,1,0,71,83,77,231,77.00
+380,1,group A,bachelor's degree,1,0,66,64,62,192,64.00
+381,0,group B,associate's degree,1,0,80,86,83,249,83.00
+382,1,group C,associate's degree,1,1,87,100,95,282,94.00
+383,1,group C,master's degree,0,0,79,81,71,231,77.00
+384,0,group E,some high school,0,0,38,49,45,132,44.00
+385,0,group A,some high school,0,0,38,43,43,124,41.33
+386,0,group E,some college,1,0,67,76,75,218,72.67
+387,0,group E,bachelor's degree,1,0,64,73,70,207,69.00
+388,0,group C,associate's degree,0,0,57,78,67,202,67.33
+389,0,group D,high school,1,0,62,64,64,190,63.33
+390,1,group D,master's degree,1,0,73,70,75,218,72.67
+391,1,group E,some high school,0,1,73,67,59,199,66.33
+392,0,group D,some college,1,0,77,68,77,222,74.00
+393,1,group E,some college,1,0,76,67,67,210,70.00
+394,1,group C,associate's degree,1,1,57,54,56,167,55.67
+395,0,group C,some high school,1,1,65,74,77,216,72.00
+396,1,group A,high school,0,0,48,45,41,134,44.67
+397,0,group B,high school,0,0,50,67,63,180,60.00
+398,0,group C,associate's degree,1,0,85,89,95,269,89.67
+399,1,group B,some high school,1,0,74,63,57,194,64.67
+400,1,group D,some high school,1,0,60,59,54,173,57.67
+401,0,group C,some high school,1,1,59,54,67,180,60.00
+402,1,group A,some college,1,0,53,43,43,139,46.33
+403,0,group A,some college,0,0,49,65,55,169,56.33
+404,0,group D,high school,1,1,88,99,100,287,95.67
+405,0,group C,high school,1,0,54,59,62,175,58.33
+406,0,group C,some high school,1,0,63,73,68,204,68.00
+407,1,group B,associate's degree,1,1,65,65,63,193,64.33
+408,0,group B,associate's degree,1,0,82,80,77,239,79.67
+409,0,group D,high school,0,1,52,57,56,165,55.00
+410,1,group D,associate's degree,1,1,87,84,85,256,85.33
+411,0,group D,master's degree,1,1,70,71,74,215,71.67
+412,1,group E,some college,1,1,84,83,78,245,81.67
+413,1,group D,associate's degree,1,0,71,66,60,197,65.67
+414,1,group B,some high school,1,1,63,67,67,197,65.67
+415,0,group C,bachelor's degree,0,1,51,72,79,202,67.33
+416,1,group E,high school,1,0,84,73,69,226,75.33
+417,1,group C,bachelor's degree,1,1,71,74,68,213,71.00
+418,1,group C,associate's degree,1,0,74,73,67,214,71.33
+419,1,group D,some college,1,0,68,59,62,189,63.00
+420,1,group E,high school,0,1,57,56,54,167,55.67
+421,0,group C,associate's degree,0,1,82,93,93,268,89.33
+422,0,group D,high school,1,1,57,58,64,179,59.67
+423,0,group D,master's degree,0,1,47,58,67,172,57.33
+424,0,group A,some high school,1,1,59,85,80,224,74.67
+425,1,group B,some college,0,0,41,39,34,114,38.00
+426,0,group C,some college,0,0,62,67,62,191,63.67
+427,1,group C,bachelor's degree,1,0,86,83,86,255,85.00
+428,1,group C,some high school,0,0,69,71,65,205,68.33
+429,1,group A,some high school,0,0,65,59,53,177,59.00
+430,1,group C,some high school,0,0,68,63,54,185,61.67
+431,1,group C,associate's degree,0,0,64,66,59,189,63.00
+432,0,group C,high school,1,0,61,72,70,203,67.67
+433,1,group C,high school,1,0,61,56,55,172,57.33
+434,0,group A,some high school,0,0,47,59,50,156,52.00
+435,1,group C,some high school,1,0,73,66,66,205,68.33
+436,1,group C,some college,0,1,50,48,53,151,50.33
+437,1,group D,associate's degree,1,0,75,68,64,207,69.00
+438,1,group D,associate's degree,0,0,75,66,73,214,71.33
+439,1,group C,high school,1,0,70,56,51,177,59.00
+440,1,group D,some high school,1,1,89,88,82,259,86.33
+441,0,group C,some college,1,1,67,81,79,227,75.67
+442,0,group D,high school,1,0,78,81,80,239,79.67
+443,0,group A,some high school,0,0,59,73,69,201,67.00
+444,0,group B,associate's degree,1,0,73,83,76,232,77.33
+445,1,group A,some high school,0,0,79,82,73,234,78.00
+446,0,group C,some high school,1,1,67,74,77,218,72.67
+447,1,group D,some college,0,0,69,66,60,195,65.00
+448,1,group C,high school,1,1,86,81,80,247,82.33
+449,1,group B,high school,1,0,47,46,42,135,45.00
+450,1,group B,associate's degree,1,0,81,73,72,226,75.33
+451,0,group C,some college,0,1,64,85,85,234,78.00
+452,0,group E,some college,1,0,100,92,97,289,96.33
+453,0,group C,associate's degree,0,0,65,77,74,216,72.00
+454,1,group C,some college,0,0,65,58,49,172,57.33
+455,0,group C,associate's degree,0,0,53,61,62,176,58.67
+456,1,group C,bachelor's degree,0,0,37,56,47,140,46.67
+457,0,group D,bachelor's degree,1,0,79,89,89,257,85.67
+458,1,group D,associate's degree,0,0,53,54,48,155,51.67
+459,0,group E,bachelor's degree,1,0,100,100,100,300,100.00
+460,1,group B,high school,1,1,72,65,68,205,68.33
+461,1,group C,bachelor's degree,0,0,53,58,55,166,55.33
+462,1,group B,some college,0,0,54,54,45,153,51.00
+463,0,group E,some college,1,0,71,70,76,217,72.33
+464,0,group C,some college,0,0,77,90,91,258,86.00
+465,1,group A,bachelor's degree,1,1,75,58,62,195,65.00
+466,0,group C,some college,1,0,84,87,91,262,87.33
+467,0,group D,associate's degree,0,0,26,31,38,95,31.67
+468,1,group A,high school,0,1,72,67,65,204,68.00
+469,0,group A,high school,0,1,77,88,85,250,83.33
+470,1,group C,some college,1,0,91,74,76,241,80.33
+471,0,group C,associate's degree,1,1,83,85,90,258,86.00
+472,0,group C,high school,1,0,63,69,74,206,68.67
+473,0,group C,associate's degree,1,1,68,86,84,238,79.33
+474,0,group D,some high school,1,0,59,67,61,187,62.33
+475,0,group B,associate's degree,1,1,90,90,91,271,90.33
+476,0,group D,bachelor's degree,1,1,71,76,83,230,76.67
+477,1,group E,bachelor's degree,1,1,76,62,66,204,68.00
+478,1,group D,associate's degree,1,0,80,68,72,220,73.33
+479,0,group D,master's degree,1,0,55,64,70,189,63.00
+480,1,group E,associate's degree,1,0,76,71,67,214,71.33
+481,1,group B,high school,1,1,73,71,68,212,70.67
+482,0,group D,associate's degree,0,0,52,59,56,167,55.67
+483,1,group C,some college,0,0,68,68,61,197,65.67
+484,1,group A,high school,1,0,59,52,46,157,52.33
+485,0,group B,associate's degree,1,0,49,52,54,155,51.67
+486,1,group C,high school,1,0,70,74,71,215,71.67
+487,1,group D,some college,0,0,61,47,56,164,54.67
+488,0,group C,associate's degree,0,0,60,75,74,209,69.67
+489,1,group B,some high school,1,1,64,53,57,174,58.00
+490,1,group A,associate's degree,0,1,79,82,82,243,81.00
+491,0,group A,associate's degree,0,0,65,85,76,226,75.33
+492,0,group C,associate's degree,1,0,64,64,70,198,66.00
+493,0,group C,some college,1,0,83,83,90,256,85.33
+494,0,group C,bachelor's degree,1,0,81,88,90,259,86.33
+495,0,group B,high school,1,0,54,64,68,186,62.00
+496,1,group D,high school,1,1,68,64,66,198,66.00
+497,0,group C,some college,1,0,54,48,52,154,51.33
+498,0,group D,some college,0,1,59,78,76,213,71.00
+499,0,group B,some high school,1,0,66,69,68,203,67.67
+500,1,group E,some college,1,0,76,71,72,219,73.00
+501,0,group D,master's degree,1,0,74,79,82,235,78.33
+502,0,group B,associate's degree,1,1,94,87,92,273,91.00
+503,1,group C,some college,0,0,63,61,54,178,59.33
+504,0,group E,associate's degree,1,1,95,89,92,276,92.00
+505,0,group D,master's degree,0,0,40,59,54,153,51.00
+506,0,group B,some high school,1,0,82,82,80,244,81.33
+507,1,group A,high school,1,0,68,70,66,204,68.00
+508,1,group B,bachelor's degree,0,0,55,59,54,168,56.00
+509,1,group C,master's degree,1,0,79,78,77,234,78.00
+510,0,group C,bachelor's degree,1,0,86,92,87,265,88.33
+511,1,group D,some college,1,0,76,71,73,220,73.33
+512,1,group A,some high school,1,0,64,50,43,157,52.33
+513,1,group D,some high school,0,0,62,49,52,163,54.33
+514,0,group B,some high school,1,1,54,61,62,177,59.00
+515,0,group B,master's degree,0,1,77,97,94,268,89.33
+516,0,group C,some high school,1,1,76,87,85,248,82.67
+517,0,group D,some college,1,0,74,89,84,247,82.33
+518,0,group E,some college,1,1,66,74,73,213,71.00
+519,0,group D,some high school,1,1,66,78,78,222,74.00
+520,0,group B,high school,0,1,67,78,79,224,74.67
+521,1,group D,some college,1,0,71,49,52,172,57.33
+522,0,group C,associate's degree,1,0,91,86,84,261,87.00
+523,1,group D,bachelor's degree,1,0,69,58,57,184,61.33
+524,1,group C,master's degree,0,0,54,59,50,163,54.33
+525,1,group C,high school,1,1,53,52,49,154,51.33
+526,1,group E,some college,1,0,68,60,59,187,62.33
+527,1,group C,some high school,0,1,56,61,60,177,59.00
+528,0,group C,high school,0,0,36,53,43,132,44.00
+529,0,group D,bachelor's degree,0,0,29,41,47,117,39.00
+530,0,group C,associate's degree,1,0,62,74,70,206,68.67
+531,0,group C,associate's degree,1,1,68,67,73,208,69.33
+532,0,group C,some high school,1,0,47,54,53,154,51.33
+533,1,group E,associate's degree,1,1,62,61,58,181,60.33
+534,0,group E,associate's degree,1,1,79,88,94,261,87.00
+535,1,group B,high school,1,1,73,69,68,210,70.00
+536,0,group C,bachelor's degree,0,1,66,83,83,232,77.33
+537,1,group C,associate's degree,1,1,51,60,58,169,56.33
+538,0,group D,high school,1,0,51,66,62,179,59.67
+539,1,group E,bachelor's degree,1,1,85,66,71,222,74.00
+540,1,group A,associate's degree,1,1,97,92,86,275,91.67
+541,1,group C,high school,1,1,75,69,68,212,70.67
+542,1,group D,associate's degree,0,1,79,82,80,241,80.33
+543,0,group C,associate's degree,1,0,81,77,79,237,79.00
+544,0,group D,associate's degree,1,0,82,95,89,266,88.67
+545,0,group D,master's degree,1,0,64,63,66,193,64.33
+546,1,group E,some high school,0,1,78,83,80,241,80.33
+547,0,group A,some high school,1,1,92,100,97,289,96.33
+548,1,group C,high school,1,1,72,67,64,203,67.67
+549,0,group C,high school,0,0,62,67,64,193,64.33
+550,1,group C,master's degree,1,0,79,72,69,220,73.33
+551,1,group C,some high school,0,0,79,76,65,220,73.33
+552,1,group B,bachelor's degree,0,1,87,90,88,265,88.33
+553,0,group B,associate's degree,1,0,40,48,50,138,46.00
+554,1,group D,some college,0,0,77,62,64,203,67.67
+555,1,group E,associate's degree,1,0,53,45,40,138,46.00
+556,0,group C,some college,0,0,32,39,33,104,34.67
+557,0,group C,associate's degree,1,1,55,72,79,206,68.67
+558,1,group C,master's degree,0,0,61,67,66,194,64.67
+559,0,group B,associate's degree,0,0,53,70,70,193,64.33
+560,1,group D,some high school,1,0,73,66,62,201,67.00
+561,0,group D,some college,1,1,74,75,79,228,76.00
+562,0,group C,some college,1,0,63,74,74,211,70.33
+563,1,group C,bachelor's degree,1,1,96,90,92,278,92.67
+564,0,group D,some college,0,1,63,80,80,223,74.33
+565,1,group B,bachelor's degree,0,0,48,51,46,145,48.33
+566,1,group B,associate's degree,1,0,48,43,45,136,45.33
+567,0,group E,bachelor's degree,0,1,92,100,100,292,97.33
+568,0,group D,master's degree,0,1,61,71,78,210,70.00
+569,1,group B,high school,0,0,63,48,47,158,52.67
+570,1,group D,bachelor's degree,0,0,68,68,67,203,67.67
+571,1,group B,some college,1,1,71,75,70,216,72.00
+572,1,group A,bachelor's degree,1,0,91,96,92,279,93.00
+573,0,group C,some college,1,0,53,62,56,171,57.00
+574,0,group C,high school,0,1,50,66,64,180,60.00
+575,0,group E,high school,1,0,74,81,71,226,75.33
+576,1,group A,associate's degree,0,1,40,55,53,148,49.33
+577,1,group A,some college,1,1,61,51,52,164,54.67
+578,0,group B,high school,1,0,81,91,89,261,87.00
+579,0,group B,some college,0,1,48,56,58,162,54.00
+580,0,group D,master's degree,1,0,53,61,68,182,60.67
+581,0,group D,some high school,1,0,81,97,96,274,91.33
+582,0,group E,some high school,1,0,77,79,80,236,78.67
+583,0,group D,bachelor's degree,0,0,63,73,78,214,71.33
+584,0,group D,associate's degree,1,1,73,75,80,228,76.00
+585,0,group D,some college,1,0,69,77,77,223,74.33
+586,0,group C,associate's degree,1,0,65,76,76,217,72.33
+587,0,group A,high school,1,0,55,73,73,201,67.00
+588,0,group C,bachelor's degree,0,0,44,63,62,169,56.33
+589,0,group C,some college,1,0,54,64,65,183,61.00
+590,0,group A,some high school,1,0,48,66,65,179,59.67
+591,1,group C,some college,0,0,58,57,54,169,56.33
+592,1,group A,some high school,1,0,71,62,50,183,61.00
+593,1,group E,bachelor's degree,1,0,68,68,64,200,66.67
+594,0,group E,high school,1,0,74,76,73,223,74.33
+595,0,group C,bachelor's degree,1,1,92,100,99,291,97.00
+596,0,group C,bachelor's degree,1,1,56,79,72,207,69.00
+597,1,group B,high school,0,0,30,24,15,69,23.00
+598,1,group A,some high school,1,0,53,54,48,155,51.67
+599,0,group D,high school,1,0,69,77,73,219,73.00
+600,0,group D,some high school,1,0,65,82,81,228,76.00
+601,0,group D,master's degree,1,0,54,60,63,177,59.00
+602,0,group C,high school,1,0,29,29,30,88,29.33
+603,0,group E,some college,1,0,76,78,80,234,78.00
+604,1,group D,high school,0,0,60,57,51,168,56.00
+605,1,group D,master's degree,0,1,84,89,90,263,87.67
+606,1,group C,some high school,1,0,75,72,62,209,69.67
+607,0,group C,associate's degree,1,0,85,84,82,251,83.67
+608,0,group C,master's degree,0,0,40,58,54,152,50.67
+609,0,group E,some college,1,0,61,64,62,187,62.33
+610,0,group B,associate's degree,1,0,58,63,65,186,62.00
+611,1,group D,some college,0,1,69,60,63,192,64.00
+612,0,group C,some college,1,0,58,59,66,183,61.00
+613,1,group C,bachelor's degree,1,1,94,90,91,275,91.67
+614,0,group C,associate's degree,1,0,65,77,74,216,72.00
+615,0,group A,associate's degree,1,0,82,93,93,268,89.33
+616,0,group C,high school,1,0,60,68,72,200,66.67
+617,0,group E,bachelor's degree,1,0,37,45,38,120,40.00
+618,1,group D,bachelor's degree,1,0,88,78,83,249,83.00
+619,1,group D,master's degree,1,0,95,81,84,260,86.67
+620,1,group C,associate's degree,0,1,65,73,68,206,68.67
+621,0,group C,high school,0,0,35,61,54,150,50.00
+622,1,group B,bachelor's degree,0,0,62,63,56,181,60.33
+623,1,group C,high school,0,1,58,51,52,161,53.67
+624,1,group A,some college,1,1,100,96,86,282,94.00
+625,0,group E,bachelor's degree,0,0,61,58,62,181,60.33
+626,1,group D,some college,1,1,100,97,99,296,98.67
+627,1,group B,associate's degree,0,1,69,70,63,202,67.33
+628,1,group D,associate's degree,1,0,61,48,46,155,51.67
+629,1,group D,some college,0,0,49,57,46,152,50.67
+630,0,group C,some high school,1,1,44,51,55,150,50.00
+631,1,group D,some college,1,0,67,64,70,201,67.00
+632,1,group B,high school,1,0,79,60,65,204,68.00
+633,0,group B,bachelor's degree,1,1,66,74,81,221,73.67
+634,0,group C,high school,1,0,75,88,85,248,82.67
+635,1,group D,some high school,1,0,84,84,80,248,82.67
+636,1,group A,high school,1,0,71,74,64,209,69.67
+637,0,group B,high school,0,1,67,80,81,228,76.00
+638,0,group D,some high school,1,1,80,92,88,260,86.67
+639,1,group E,some college,1,0,86,76,74,236,78.67
+640,0,group D,associate's degree,1,0,76,74,73,223,74.33
+641,1,group D,high school,1,0,41,52,51,144,48.00
+642,0,group D,associate's degree,0,1,74,88,90,252,84.00
+643,0,group B,some high school,0,0,72,81,79,232,77.33
+644,0,group E,high school,1,1,74,79,80,233,77.67
+645,1,group B,high school,1,0,70,65,60,195,65.00
+646,0,group B,bachelor's degree,1,1,65,81,81,227,75.67
+647,0,group D,associate's degree,1,0,59,70,65,194,64.67
+648,0,group E,high school,0,0,64,62,68,194,64.67
+649,0,group B,high school,1,0,50,53,55,158,52.67
+650,0,group D,some college,1,1,69,79,81,229,76.33
+651,1,group C,some high school,0,1,51,56,53,160,53.33
+652,0,group A,high school,1,1,68,80,76,224,74.67
+653,0,group D,some college,1,1,85,86,98,269,89.67
+654,0,group A,associate's degree,1,1,65,70,74,209,69.67
+655,0,group B,some high school,1,0,73,79,79,231,77.00
+656,0,group B,some college,1,0,62,67,67,196,65.33
+657,1,group C,associate's degree,0,0,77,67,64,208,69.33
+658,1,group D,some high school,1,0,69,66,61,196,65.33
+659,0,group D,associate's degree,0,0,43,60,58,161,53.67
+660,1,group D,associate's degree,1,0,90,87,85,262,87.33
+661,1,group C,some college,0,0,74,77,73,224,74.67
+662,1,group C,some high school,1,0,73,66,63,202,67.33
+663,0,group D,some college,0,0,55,71,69,195,65.00
+664,0,group C,high school,1,0,65,69,67,201,67.00
+665,1,group D,associate's degree,1,0,80,63,63,206,68.67
+666,0,group C,some high school,0,1,50,60,60,170,56.67
+667,0,group C,some college,0,1,63,73,71,207,69.00
+668,0,group B,bachelor's degree,0,0,77,85,87,249,83.00
+669,1,group C,some college,1,0,73,74,61,208,69.33
+670,1,group D,associate's degree,1,1,81,72,77,230,76.67
+671,0,group C,high school,0,0,66,76,68,210,70.00
+672,1,group D,associate's degree,0,0,52,57,50,159,53.00
+673,0,group C,some college,1,0,69,78,76,223,74.33
+674,0,group C,associate's degree,1,1,65,84,84,233,77.67
+675,0,group D,high school,1,1,69,77,78,224,74.67
+676,0,group B,some college,1,1,50,64,66,180,60.00
+677,0,group E,some college,1,1,73,78,76,227,75.67
+678,0,group C,some high school,1,1,70,82,76,228,76.00
+679,1,group D,associate's degree,0,0,81,75,78,234,78.00
+680,1,group D,some college,0,0,63,61,60,184,61.33
+681,0,group D,high school,1,0,67,72,74,213,71.00
+682,1,group B,high school,1,0,60,68,60,188,62.67
+683,1,group B,high school,1,0,62,55,54,171,57.00
+684,0,group C,some high school,0,1,29,40,44,113,37.67
+685,1,group B,some college,1,1,62,66,68,196,65.33
+686,0,group E,master's degree,1,1,94,99,100,293,97.67
+687,1,group E,some college,1,1,85,75,68,228,76.00
+688,1,group D,associate's degree,0,0,77,78,73,228,76.00
+689,1,group A,high school,0,0,53,58,44,155,51.67
+690,1,group E,some college,0,0,93,90,83,266,88.67
+691,0,group C,associate's degree,1,0,49,53,53,155,51.67
+692,0,group E,associate's degree,0,0,73,76,78,227,75.67
+693,0,group C,bachelor's degree,0,1,66,74,81,221,73.67
+694,0,group D,associate's degree,1,0,77,77,73,227,75.67
+695,0,group C,some high school,1,0,49,63,56,168,56.00
+696,0,group D,some college,0,0,79,89,86,254,84.67
+697,0,group C,associate's degree,1,1,75,82,90,247,82.33
+698,0,group A,bachelor's degree,1,0,59,72,70,201,67.00
+699,0,group D,associate's degree,1,1,57,78,79,214,71.33
+700,1,group C,high school,0,0,66,66,59,191,63.67
+701,0,group E,bachelor's degree,1,1,79,81,82,242,80.67
+702,0,group B,some high school,1,0,57,67,72,196,65.33
+703,1,group A,bachelor's degree,1,1,87,84,87,258,86.00
+704,0,group D,some college,1,0,63,64,67,194,64.67
+705,0,group B,some high school,0,1,59,63,64,186,62.00
+706,1,group A,bachelor's degree,0,0,62,72,65,199,66.33
+707,1,group D,high school,1,0,46,34,36,116,38.67
+708,1,group C,some college,1,0,66,59,52,177,59.00
+709,1,group D,high school,1,0,89,87,79,255,85.00
+710,0,group D,associate's degree,0,1,42,61,58,161,53.67
+711,1,group C,some college,1,1,93,84,90,267,89.00
+712,0,group E,some high school,1,1,80,85,85,250,83.33
+713,0,group D,some college,1,0,98,100,99,297,99.00
+714,1,group D,master's degree,1,0,81,81,84,246,82.00
+715,0,group B,some high school,1,1,60,70,74,204,68.00
+716,0,group B,associate's degree,0,1,76,94,87,257,85.67
+717,1,group C,associate's degree,1,1,73,78,72,223,74.33
+718,0,group C,associate's degree,1,1,96,96,99,291,97.00
+719,0,group C,high school,1,0,76,76,74,226,75.33
+720,1,group E,associate's degree,0,1,91,73,80,244,81.33
+721,0,group C,some college,0,0,62,72,70,204,68.00
+722,1,group D,some high school,0,1,55,59,59,173,57.67
+723,0,group B,some high school,0,1,74,90,88,252,84.00
+724,1,group C,high school,1,0,50,48,42,140,46.67
+725,1,group B,some college,1,0,47,43,41,131,43.67
+726,1,group E,some college,1,1,81,74,71,226,75.33
+727,0,group E,associate's degree,1,1,65,75,77,217,72.33
+728,1,group E,some high school,1,1,68,51,57,176,58.67
+729,0,group D,high school,0,0,73,92,84,249,83.00
+730,1,group C,some college,1,0,53,39,37,129,43.00
+731,0,group B,associate's degree,0,1,68,77,80,225,75.00
+732,1,group A,some high school,0,0,55,46,43,144,48.00
+733,0,group C,some college,1,1,87,89,94,270,90.00
+734,1,group D,some high school,1,0,55,47,44,146,48.67
+735,0,group E,some college,0,0,53,58,57,168,56.00
+736,1,group C,master's degree,1,0,67,57,59,183,61.00
+737,1,group C,associate's degree,1,0,92,79,84,255,85.00
+738,0,group B,some college,0,1,53,66,73,192,64.00
+739,1,group D,associate's degree,1,0,81,71,73,225,75.00
+740,1,group C,high school,0,0,61,60,55,176,58.67
+741,1,group D,bachelor's degree,1,0,80,73,72,225,75.00
+742,0,group A,associate's degree,0,0,37,57,56,150,50.00
+743,0,group C,high school,1,0,81,84,82,247,82.33
+744,0,group C,associate's degree,1,1,59,73,72,204,68.00
+745,1,group B,some college,0,0,55,55,47,157,52.33
+746,1,group D,associate's degree,1,0,72,79,74,225,75.00
+747,1,group D,high school,1,0,69,75,71,215,71.67
+748,1,group C,some college,1,0,69,64,68,201,67.00
+749,0,group C,bachelor's degree,0,0,50,60,59,169,56.33
+750,1,group B,some college,1,1,87,84,86,257,85.67
+751,1,group D,some high school,1,1,71,69,68,208,69.33
+752,1,group E,some college,1,0,68,72,65,205,68.33
+753,1,group C,master's degree,0,1,79,77,75,231,77.00
+754,0,group C,some high school,1,1,77,90,85,252,84.00
+755,1,group C,associate's degree,0,0,58,55,53,166,55.33
+756,0,group E,associate's degree,1,0,84,95,92,271,90.33
+757,1,group D,some college,1,0,55,58,52,165,55.00
+758,1,group E,bachelor's degree,0,1,70,68,72,210,70.00
+759,0,group D,some college,0,1,52,59,65,176,58.67
+760,1,group B,some college,1,1,69,77,77,223,74.33
+761,0,group C,high school,0,0,53,72,64,189,63.00
+762,0,group D,some high school,1,0,48,58,54,160,53.33
+763,1,group D,some high school,1,1,78,81,86,245,81.67
+764,0,group B,high school,1,0,62,62,63,187,62.33
+765,1,group D,some college,1,0,60,63,59,182,60.67
+766,0,group B,high school,1,0,74,72,72,218,72.67
+767,0,group C,high school,1,1,58,75,77,210,70.00
+768,1,group B,high school,1,1,76,62,60,198,66.00
+769,0,group D,some high school,1,0,68,71,75,214,71.33
+770,1,group A,some college,0,0,58,60,57,175,58.33
+771,1,group B,high school,1,0,52,48,49,149,49.67
+772,1,group D,bachelor's degree,1,0,75,73,74,222,74.00
+773,0,group B,some high school,0,1,52,67,72,191,63.67
+774,0,group C,bachelor's degree,0,0,62,78,79,219,73.00
+775,1,group B,some college,1,0,66,65,60,191,63.67
+776,0,group B,some high school,0,0,49,58,55,162,54.00
+777,0,group B,high school,1,0,66,72,70,208,69.33
+778,0,group C,some college,0,0,35,44,43,122,40.67
+779,0,group A,some college,1,1,72,79,82,233,77.67
+780,1,group E,associate's degree,1,1,94,85,82,261,87.00
+781,0,group D,associate's degree,0,0,46,56,57,159,53.00
+782,0,group B,master's degree,1,0,77,90,84,251,83.67
+783,0,group B,high school,0,1,76,85,82,243,81.00
+784,0,group C,associate's degree,1,1,52,59,62,173,57.67
+785,1,group C,bachelor's degree,1,1,91,81,79,251,83.67
+786,0,group B,some high school,1,1,32,51,44,127,42.33
+787,0,group E,some high school,0,0,72,79,77,228,76.00
+788,0,group B,some college,1,0,19,38,32,89,29.67
+789,1,group C,associate's degree,0,0,68,65,61,194,64.67
+790,0,group C,master's degree,0,0,52,65,61,178,59.33
+791,0,group B,high school,1,0,48,62,60,170,56.67
+792,0,group D,some college,0,0,60,66,70,196,65.33
+793,1,group D,high school,0,0,66,74,69,209,69.67
+794,1,group E,some high school,1,1,89,84,77,250,83.33
+795,0,group B,high school,1,0,42,52,51,145,48.33
+796,0,group E,associate's degree,0,1,57,68,73,198,66.00
+797,1,group D,high school,1,0,70,70,70,210,70.00
+798,0,group E,associate's degree,0,0,70,84,81,235,78.33
+799,1,group E,some college,1,0,69,60,54,183,61.00
+800,0,group C,associate's degree,1,0,52,55,57,164,54.67
+801,1,group C,some high school,1,1,67,73,68,208,69.33
+802,1,group C,some high school,1,1,76,80,73,229,76.33
+803,0,group E,associate's degree,1,0,87,94,95,276,92.00
+804,0,group B,some college,1,0,82,85,87,254,84.67
+805,0,group C,some college,1,0,73,76,78,227,75.67
+806,1,group A,some college,0,0,75,81,74,230,76.67
+807,0,group D,some college,0,0,64,74,75,213,71.00
+808,0,group E,high school,0,0,41,45,40,126,42.00
+809,1,group C,high school,1,0,90,75,69,234,78.00
+810,1,group B,bachelor's degree,1,0,59,54,51,164,54.67
+811,1,group A,some high school,1,0,51,31,36,118,39.33
+812,1,group A,high school,0,0,45,47,49,141,47.00
+813,0,group C,master's degree,1,1,54,64,67,185,61.67
+814,1,group E,some high school,1,1,87,84,76,247,82.33
+815,0,group C,high school,1,0,72,80,83,235,78.33
+816,1,group B,some high school,1,1,94,86,87,267,89.00
+817,0,group A,bachelor's degree,1,0,45,59,64,168,56.00
+818,1,group D,bachelor's degree,0,1,61,70,76,207,69.00
+819,0,group B,high school,0,0,60,72,68,200,66.67
+820,0,group C,some high school,1,0,77,91,88,256,85.33
+821,0,group A,some high school,1,1,85,90,92,267,89.00
+822,0,group D,bachelor's degree,0,0,78,90,93,261,87.00
+823,1,group E,some college,0,1,49,52,51,152,50.67
+824,0,group B,high school,0,0,71,87,82,240,80.00
+825,0,group C,some high school,0,0,48,58,52,158,52.67
+826,1,group C,high school,1,0,62,67,58,187,62.33
+827,0,group C,associate's degree,0,1,56,68,70,194,64.67
+828,0,group C,some high school,1,0,65,69,76,210,70.00
+829,0,group D,some high school,0,1,69,86,81,236,78.67
+830,1,group B,some high school,1,0,68,54,53,175,58.33
+831,0,group A,some college,0,0,61,60,57,178,59.33
+832,0,group C,bachelor's degree,0,1,74,86,89,249,83.00
+833,1,group A,bachelor's degree,1,0,64,60,58,182,60.67
+834,0,group B,high school,1,1,77,82,89,248,82.67
+835,1,group B,some college,1,0,58,50,45,153,51.00
+836,0,group C,high school,1,1,60,64,74,198,66.00
+837,1,group E,high school,1,0,73,64,57,194,64.67
+838,0,group A,high school,1,1,75,82,79,236,78.67
+839,1,group B,associate's degree,0,1,58,57,53,168,56.00
+840,0,group C,associate's degree,1,0,66,77,73,216,72.00
+841,0,group D,high school,0,0,39,52,46,137,45.67
+842,1,group C,some high school,1,0,64,58,51,173,57.67
+843,0,group B,high school,0,1,23,44,36,103,34.33
+844,1,group B,some college,0,1,74,77,76,227,75.67
+845,0,group D,some high school,0,1,40,65,64,169,56.33
+846,1,group E,master's degree,1,0,90,85,84,259,86.33
+847,1,group C,master's degree,1,1,91,85,85,261,87.00
+848,1,group D,high school,1,0,64,54,50,168,56.00
+849,0,group C,high school,1,0,59,72,68,199,66.33
+850,1,group D,associate's degree,1,0,80,75,69,224,74.67
+851,1,group C,master's degree,1,0,71,67,67,205,68.33
+852,0,group A,high school,1,0,61,68,63,192,64.00
+853,0,group E,some college,1,0,87,85,93,265,88.33
+854,1,group E,some high school,1,0,82,67,61,210,70.00
+855,1,group C,some high school,1,0,62,64,55,181,60.33
+856,0,group B,bachelor's degree,1,0,97,97,96,290,96.67
+857,1,group B,some college,0,0,75,68,65,208,69.33
+858,0,group C,bachelor's degree,1,0,65,79,81,225,75.00
+859,1,group B,high school,1,1,52,49,46,147,49.00
+860,1,group C,associate's degree,0,0,87,73,72,232,77.33
+861,0,group C,associate's degree,1,0,53,62,53,168,56.00
+862,0,group E,master's degree,0,0,81,86,87,254,84.67
+863,1,group D,bachelor's degree,0,1,39,42,38,119,39.67
+864,0,group C,some college,1,1,71,71,80,222,74.00
+865,1,group C,associate's degree,1,0,97,93,91,281,93.67
+866,1,group D,some college,1,1,82,82,88,252,84.00
+867,1,group C,high school,0,0,59,53,52,164,54.67
+868,1,group B,associate's degree,1,0,61,42,41,144,48.00
+869,1,group E,associate's degree,0,1,78,74,72,224,74.67
+870,1,group C,associate's degree,0,0,49,51,51,151,50.33
+871,1,group B,high school,1,0,59,58,47,164,54.67
+872,0,group C,some college,1,1,70,72,76,218,72.67
+873,1,group B,associate's degree,1,1,82,84,78,244,81.33
+874,1,group E,associate's degree,0,0,90,90,82,262,87.33
+875,0,group C,bachelor's degree,0,0,43,62,61,166,55.33
+876,1,group C,some college,0,0,80,64,66,210,70.00
+877,1,group D,some college,1,0,81,82,84,247,82.33
+878,1,group C,some high school,1,0,57,61,54,172,57.33
+879,0,group D,some high school,1,0,59,72,80,211,70.33
+880,0,group D,associate's degree,1,0,64,76,74,214,71.33
+881,1,group C,bachelor's degree,1,1,63,64,66,193,64.33
+882,0,group E,bachelor's degree,1,1,71,70,70,211,70.33
+883,0,group B,high school,0,0,64,73,71,208,69.33
+884,1,group D,bachelor's degree,0,0,55,46,44,145,48.33
+885,0,group E,associate's degree,1,0,51,51,54,156,52.00
+886,0,group C,associate's degree,1,1,62,76,80,218,72.67
+887,0,group E,associate's degree,1,1,93,100,95,288,96.00
+888,1,group C,high school,0,0,54,72,59,185,61.67
+889,0,group D,some college,0,0,69,65,74,208,69.33
+890,1,group D,high school,0,0,44,51,48,143,47.67
+891,0,group E,some college,1,1,86,85,91,262,87.33
+892,0,group E,associate's degree,1,0,85,92,85,262,87.33
+893,0,group A,master's degree,0,0,50,67,73,190,63.33
+894,1,group D,some high school,1,1,88,74,75,237,79.00
+895,0,group E,associate's degree,1,0,59,62,69,190,63.33
+896,0,group E,some high school,0,0,32,34,38,104,34.67
+897,1,group B,high school,0,0,36,29,27,92,30.67
+898,0,group B,some high school,0,1,63,78,79,220,73.33
+899,1,group D,associate's degree,1,1,67,54,63,184,61.33
+900,0,group D,some high school,1,1,65,78,82,225,75.00
+901,1,group D,master's degree,1,0,85,84,89,258,86.00
+902,0,group C,master's degree,1,0,73,78,74,225,75.00
+903,0,group A,high school,0,1,34,48,41,123,41.00
+904,0,group D,bachelor's degree,0,1,93,100,100,293,97.67
+905,0,group D,some high school,0,0,67,84,84,235,78.33
+906,1,group D,some college,1,0,88,77,77,242,80.67
+907,1,group B,high school,1,0,57,48,51,156,52.00
+908,0,group D,some college,1,1,79,84,91,254,84.67
+909,0,group C,bachelor's degree,0,0,67,75,72,214,71.33
+910,1,group E,bachelor's degree,1,1,70,64,70,204,68.00
+911,1,group D,bachelor's degree,0,0,50,42,48,140,46.67
+912,0,group A,some college,1,0,69,84,82,235,78.33
+913,0,group C,bachelor's degree,1,1,52,61,66,179,59.67
+914,0,group C,bachelor's degree,0,1,47,62,66,175,58.33
+915,0,group B,associate's degree,0,0,46,61,55,162,54.00
+916,0,group E,some college,1,0,68,70,66,204,68.00
+917,1,group E,bachelor's degree,1,1,100,100,100,300,100.00
+918,0,group C,high school,1,0,44,61,52,157,52.33
+919,0,group C,associate's degree,1,1,57,77,80,214,71.33
+920,1,group B,some college,1,1,91,96,91,278,92.67
+921,1,group D,high school,0,0,69,70,67,206,68.67
+922,0,group C,high school,0,0,35,53,46,134,44.67
+923,1,group D,high school,1,0,72,66,66,204,68.00
+924,0,group B,associate's degree,0,0,54,65,65,184,61.33
+925,1,group D,high school,0,0,74,70,69,213,71.00
+926,1,group E,some high school,1,1,74,64,60,198,66.00
+927,1,group E,associate's degree,0,0,64,56,52,172,57.33
+928,0,group D,high school,0,1,65,61,71,197,65.67
+929,1,group E,associate's degree,0,1,46,43,44,133,44.33
+930,0,group C,some high school,0,0,48,56,51,155,51.67
+931,1,group C,some college,0,1,67,74,70,211,70.33
+932,1,group D,some college,0,0,62,57,62,181,60.33
+933,1,group D,associate's degree,0,1,61,71,73,205,68.33
+934,1,group C,bachelor's degree,0,1,70,75,74,219,73.00
+935,1,group C,associate's degree,1,1,98,87,90,275,91.67
+936,1,group D,some college,0,0,70,63,58,191,63.67
+937,1,group A,associate's degree,1,0,67,57,53,177,59.00
+938,0,group E,high school,0,0,57,58,57,172,57.33
+939,1,group D,some college,1,1,85,81,85,251,83.67
+940,1,group D,some high school,1,1,77,68,69,214,71.33
+941,1,group C,master's degree,0,1,72,66,72,210,70.00
+942,0,group D,master's degree,1,0,78,91,96,265,88.33
+943,1,group C,high school,1,0,81,66,64,211,70.33
+944,1,group A,some high school,0,1,61,62,61,184,61.33
+945,0,group B,high school,1,0,58,68,61,187,62.33
+946,0,group C,associate's degree,1,0,54,61,58,173,57.67
+947,1,group B,high school,1,0,82,82,80,244,81.33
+948,0,group D,some college,0,0,49,58,60,167,55.67
+949,1,group B,some high school,0,1,49,50,52,151,50.33
+950,0,group E,high school,0,1,57,75,73,205,68.33
+951,1,group E,high school,1,0,94,73,71,238,79.33
+952,0,group D,some college,1,1,75,77,83,235,78.33
+953,0,group E,some high school,0,0,74,74,72,220,73.33
+954,1,group C,high school,1,1,58,52,54,164,54.67
+955,0,group C,some college,1,0,62,69,69,200,66.67
+956,1,group E,associate's degree,1,0,72,57,62,191,63.67
+957,1,group C,some college,1,0,84,87,81,252,84.00
+958,0,group D,master's degree,1,0,92,100,100,292,97.33
+959,0,group D,high school,1,0,45,63,59,167,55.67
+960,1,group C,high school,1,0,75,81,71,227,75.67
+961,0,group A,some college,1,0,56,58,64,178,59.33
+962,0,group D,some high school,0,0,48,54,53,155,51.67
+963,0,group E,associate's degree,1,0,100,100,100,300,100.00
+964,0,group C,some high school,0,1,65,76,75,216,72.00
+965,1,group D,some college,1,0,72,57,58,187,62.33
+966,0,group D,some college,1,0,62,70,72,204,68.00
+967,1,group A,some high school,1,1,66,68,64,198,66.00
+968,1,group C,some college,1,0,63,63,60,186,62.00
+969,0,group E,associate's degree,1,0,68,76,67,211,70.33
+970,0,group B,bachelor's degree,1,0,75,84,80,239,79.67
+971,0,group D,bachelor's degree,1,0,89,100,100,289,96.33
+972,1,group C,some high school,1,1,78,72,69,219,73.00
+973,0,group A,high school,0,1,53,50,60,163,54.33
+974,0,group D,some college,0,0,49,65,61,175,58.33
+975,0,group A,some college,1,0,54,63,67,184,61.33
+976,0,group C,some college,1,1,64,82,77,223,74.33
+977,1,group B,some college,0,1,60,62,60,182,60.67
+978,1,group C,associate's degree,1,0,62,65,58,185,61.67
+979,1,group D,high school,1,1,55,41,48,144,48.00
+980,0,group C,associate's degree,1,0,91,95,94,280,93.33
+981,0,group B,high school,0,0,8,24,23,55,18.33
+982,1,group D,some high school,1,0,81,78,78,237,79.00
+983,1,group B,some high school,1,1,79,85,86,250,83.33
+984,0,group A,some college,1,1,78,87,91,256,85.33
+985,0,group C,some high school,1,0,74,75,82,231,77.00
+986,1,group A,high school,1,0,57,51,54,162,54.00
+987,0,group C,associate's degree,1,0,40,59,51,150,50.00
+988,1,group E,some high school,1,1,81,75,76,232,77.33
+989,0,group A,some high school,0,0,44,45,45,134,44.67
+990,0,group D,some college,0,1,67,86,83,236,78.67
+991,1,group E,high school,0,1,86,81,75,242,80.67
+992,0,group B,some high school,1,1,65,82,78,225,75.00
+993,0,group D,associate's degree,0,0,55,76,76,207,69.00
+994,0,group D,bachelor's degree,0,0,62,72,74,208,69.33
+995,1,group A,high school,1,0,63,63,62,188,62.67
+996,0,group E,master's degree,1,1,88,99,95,282,94.00
+997,1,group C,high school,0,0,62,55,55,172,57.33
+998,0,group C,high school,0,1,59,71,65,195,65.00
+999,0,group D,some college,1,1,68,78,77,223,74.33
+1000,0,group D,some college,0,0,77,86,86,249,83.00
